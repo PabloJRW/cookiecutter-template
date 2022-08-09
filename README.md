@@ -2,16 +2,17 @@
 Platilla para proyectos de Ciencia de Datos.
 
 ## Requerimientos
-* Anaconda > 4.x
-* Git > 2.x 
-* Cookiecutter Python Package > 1.4.0
+- [Anaconda](https://www.anaconda.com/download/) >= 4.x
+- [Git](https://git-scm.com/) >= 2.x
+- [Cookiecutter Python package](http://cookiecutter.readthedocs.org/en/latest/installation.html) >= 1.4.0
 
-<code> pip install cookiecutter </code>
-
+```bash
+pip install cookiecutter 
+```
 o
-
-<code> conda install -c conda-forge cookiecutter </code>
-
+```bash
+conda install -c conda-forge cookiecutter 
+```
 ## Crear un nuevo proyecto
 Copia en el directorio en el que vas a iniciar un nuevo proyecto
 ```bash
